@@ -40,6 +40,7 @@ public class Graph {
     
     
 }
+//z milosza projektu dodac
 
 class List {
     public int value;
