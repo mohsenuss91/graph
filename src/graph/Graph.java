@@ -14,6 +14,7 @@ public class Graph {
         
         head = new int[n];
         next = new List[m];
+        //do dodania do graph
         //automatyczna alokacja tych wszystkich rzeczy
         //ale nie wpisywania danych
         this.graph_size = graph_size;
