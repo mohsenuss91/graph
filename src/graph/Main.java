@@ -1,8 +1,5 @@
 package graph;
 
-import java.util.*;
-import java.io.BufferedReader;
-import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.StreamTokenizer;
@@ -22,7 +19,7 @@ public class Main {
         int number = 0;
         
         //TODO jak policzyć ładnie to "m"
-        int m = 0;
+        int m = 10;
         //liczba wierzchołków graph_size = n
         //tutaj ma byc zastosowane wpisywanie do struktury grafowej
         Graph data = new Graph(graph_size, m);
